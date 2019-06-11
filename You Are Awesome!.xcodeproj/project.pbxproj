@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC36CF1022B0467900A1CBC0 /* ViewController+.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC36CF0F22B0467900A1CBC0 /* ViewController+.swift */; };
 		EC78BD2922A090DC00F911C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC78BD2822A090DC00F911C4 /* AppDelegate.swift */; };
 		EC78BD2B22A090DC00F911C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC78BD2A22A090DC00F911C4 /* ViewController.swift */; };
 		EC78BD2E22A090DC00F911C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC78BD2C22A090DC00F911C4 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EC36CF0F22B0467900A1CBC0 /* ViewController+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ViewController+.swift"; sourceTree = "<group>"; };
 		EC78BD2522A090DC00F911C4 /* You Are Awesome!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Are Awesome!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC78BD2822A090DC00F911C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC78BD2A22A090DC00F911C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				EC78BD2822A090DC00F911C4 /* AppDelegate.swift */,
 				EC78BD2A22A090DC00F911C4 /* ViewController.swift */,
+				EC36CF0F22B0467900A1CBC0 /* ViewController+.swift */,
 				EC78BD2C22A090DC00F911C4 /* Main.storyboard */,
 				EC78BD2F22A090DE00F911C4 /* Assets.xcassets */,
 				EC78BD3122A090DE00F911C4 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC36CF1022B0467900A1CBC0 /* ViewController+.swift in Sources */,
 				EC78BD2B22A090DC00F911C4 /* ViewController.swift in Sources */,
 				EC78BD2922A090DC00F911C4 /* AppDelegate.swift in Sources */,
 			);
